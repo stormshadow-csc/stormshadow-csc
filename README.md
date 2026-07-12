@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Maher El-Maghazy (Storm Shadow) 👋
 
-<!--
-**stormshadow-csc/stormshadow-csc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Enthusiast & Developer | Founder of MGE
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently diving deep into **Ethical Hacking**, **Bug Bounty Discovery**, and **Software Development**.
+- 🧠 Deeply interested in combining **Artificial Intelligence** with advanced cybersecurity frameworks.
+- 💻 Writing custom automation scripts and exploring secure system architectures.
+
+---
+
+### 🛠️ Tech & Tools
+- **Languages:** Python, Bash (Expanding into more languages soon!)
+- **OS & Environment:** Kali Linux, Linux Systems
+- **Core Focus:** Vulnerabilities Scanning, Bug Hunting, Network Security
+
+---
+
+### 🤝 Connect with me
+- **Discord:** Storm_Shadow_MGE
+- **HackerOne:** [hackerone.com/stormshadow-csc](https://hackerone.com/stormshadow-csc)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stormshadow-csc&show_icons=true&theme=tokyonight&count_private=true" alt="Storm Shadow's GitHub Stats" />
+</p>
